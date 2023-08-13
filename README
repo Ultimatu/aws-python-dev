@@ -1,0 +1,29 @@
+## ``Exercices Python AWS Cloud Practitioner``
+
+### Exercice 1
+
+- Renverser l’ordre des éléments d’une liste
+Créez un programme qui change l’ordre des éléments d’une liste en les renversant.
+
+### Exercice 2
+
+- Calculer la factorielle d’un nombre
+Codez un programme qui donne la factorielle d’un nombre.
+
+Exercise 3: Lire un fichier texte dans une variable et remplacer toutes les nouvelles lignes par des espaces
+
+### Exercice 4
+
+- Afficher un mot en alternant entre majuscules et minuscules
+
+### Exercice 5
+
+- Afficher les nombres d’une liste qui sont divisibles par 5
+
+### Exercice 6
+
+- Modifier l'élément d'une liste imbriquée dans la liste suivante
+
+Changer les occurrences de 58 en 5800
+La liste est la suivante -> list1 = [5, [10, 15, [20, 25, [30, 58], 40], 45], 50]
+Le résultat attendu est le suivant: [5, [10, 15, [20, 25, [30, 5800], 40], 45], 50]
